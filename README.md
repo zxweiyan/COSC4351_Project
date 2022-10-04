@@ -40,8 +40,3 @@ system.
     reserve the table.
 
     -   Notify user no show will have minimum \$10 charge.
-
-**Assumptions:**
-
-If you make any assumptions to provide good user experience, please list
-it.
